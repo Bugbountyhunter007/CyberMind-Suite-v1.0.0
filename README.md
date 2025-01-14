@@ -98,7 +98,7 @@ Key libraries:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-repo/Quantum-CyberMind-Suite.git
-cd Quantum-CyberMind-Suite
+cd Quantum-CyberMind-Suite-v1.0.0
 ```
 
 ### 2. Configure Environment Variables
